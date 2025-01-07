@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-Routing-Website/static/css/main.ab8bd44e.css",
+    "main.js": "/React-Routing-Website/static/js/main.345e28ff.js",
+    "static/media/sakura-image7.jpg": "/React-Routing-Website/static/media/sakura-image7.0ab922fef572b6cb7b5a.jpg",
+    "static/media/sakura-image11.jpg": "/React-Routing-Website/static/media/sakura-image11.d166a9b3c67cec3af9e6.jpg",
+    "static/media/sakura-image6.jpg": "/React-Routing-Website/static/media/sakura-image6.810513c6b0d90884e305.jpg",
+    "static/media/sakura-image15.png": "/React-Routing-Website/static/media/sakura-image15.c291c38ad9ad46891d9d.png",
+    "static/media/sakura-image8.jpg": "/React-Routing-Website/static/media/sakura-image8.1869a4fc2ffd1377b850.jpg",
+    "static/media/sakura-image13.png": "/React-Routing-Website/static/media/sakura-image13.55749099a2b4f88a7097.png",
+    "static/media/sakura-image9.jpg": "/React-Routing-Website/static/media/sakura-image9.06dd0f985d38d1c53957.jpg",
+    "static/media/sakura-image16.png": "/React-Routing-Website/static/media/sakura-image16.2b3cc060790f3446d90c.png",
+    "static/media/sakura-image10.jpg": "/React-Routing-Website/static/media/sakura-image10.17911532085ae983621d.jpg",
+    "static/media/sakura-image17.jpg": "/React-Routing-Website/static/media/sakura-image17.36ea31ba8674656788ec.jpg",
+    "static/media/sakura-image18.jpg": "/React-Routing-Website/static/media/sakura-image18.626d7be9fe19188e900f.jpg",
+    "static/media/instagram-logo.png": "/React-Routing-Website/static/media/instagram-logo.8cb5daea96d3a8851b44.png",
+    "static/media/twitter-logo.png": "/React-Routing-Website/static/media/twitter-logo.8e65601e69067aadfe55.png",
+    "static/media/sakura-image14.jpg": "/React-Routing-Website/static/media/sakura-image14.d38ee97d0ed86d5d6c2c.jpg",
+    "index.html": "/React-Routing-Website/index.html",
+    "main.ab8bd44e.css.map": "/React-Routing-Website/static/css/main.ab8bd44e.css.map",
+    "main.345e28ff.js.map": "/React-Routing-Website/static/js/main.345e28ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab8bd44e.css",
+    "static/js/main.345e28ff.js"
+  ]
+}
