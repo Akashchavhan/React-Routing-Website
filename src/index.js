@@ -1,5 +1,15 @@
-import ReactDom from 'react-dom/client'
-import './index.css'
-import App from './App'
-const root=ReactDom.createRoot(document.getElementById('root'))
-root.render(<App/>)
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import { BrowserRouter } from 'react-router-dom';
+import './index.css';
+import App from './App';
+
+// Ensure you're using createRoot() in React 18
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <App />
+    </BrowserRouter>
+  </React.StrictMode>
+);
