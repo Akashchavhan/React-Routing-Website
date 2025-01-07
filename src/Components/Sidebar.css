@@ -1,0 +1,46 @@
+.Sidebar{
+    height: 703px;
+    width: 50px;
+    background-color: white;
+    z-index: 105;
+    position: fixed;
+}
+.Sidebar h1:nth-child(1){
+    color: red;
+    margin-top: 40px;
+    margin-left: -2px;
+}
+.Sidebar h1:nth-child(2){
+    margin-top: 130px;
+    margin-left: -28px;
+}
+.Sidebar h1{
+    position: absolute;
+    rotate: -90deg;
+    font-size: 22px;
+}
+#logo1{
+    height: 25px;
+    position: absolute;
+    margin-top: 32rem;
+    margin-left: 25%;
+}
+#logo2{
+    height: 25px;
+    position: absolute;
+    margin-top: 35rem;
+    margin-left: 25%;
+}
+#logo3{
+    height: 25px;
+    position: absolute;
+    margin-top: 38rem;
+    margin-left: 25%;
+}
+.Sidebar a{
+    text-decoration: none;
+}
+.logos:hover{
+    transform: rotate(20deg);
+    transition: all 100ms linear;
+}
